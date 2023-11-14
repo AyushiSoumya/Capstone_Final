@@ -1,0 +1,380 @@
+2023.11.14 11:34:20.394 [INFO] com.capstonelegal.Main: Starting Main using Java 17.0.1 on LAPTOP-OHAH734S with PID 13560 (C:\Users\ASUS\Desktop\Capstone\capstonelegal\target\classes started by ASUS in C:\Users\ASUS\Desktop\Capstone)
+2023.11.14 11:34:20.423 [INFO] com.capstonelegal.Main: No active profile set, falling back to 1 default profile: "default"
+2023.11.14 11:34:39.851 [INFO] com.capstonelegal.Main: Started Main in 20.401 seconds (JVM running for 22.357)
+2023.11.14 11:46:44.273 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 11:46:45.015 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 11:47:20.520 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 11:47:20.562 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 11:47:54.351 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 11:47:54.388 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 12:02:04.581 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:02:04.628 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:02:04.905 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:13:40.158 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:13:40.203 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:13:40.338 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:13:52.819 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:13:52.825 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:13:52.866 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:13:52.879 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:13:52.881 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:13:52.910 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:13:59.770 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:13:59.780 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:13:59.815 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:13:59.826 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:13:59.830 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:13:59.865 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:14:14.159 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:14:14.167 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:14:14.204 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:14:14.214 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:14:14.215 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:14:14.245 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:14:51.064 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:14:51.072 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:14:51.105 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:32:06.716 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:32:06.722 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:32:06.782 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:32:06.802 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:32:06.803 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:32:06.833 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:37:29.466 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:37:29.484 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:37:29.554 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:37:29.566 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:37:29.567 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:37:29.597 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:37:50.437 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:37:50.447 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:37:50.493 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:37:50.514 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 12:37:50.515 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 12:37:50.541 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 12:40:04.559 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 12:40:04.648 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 12:49:57.090 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 12:49:57.123 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 12:50:18.605 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 12:50:18.628 [INFO] com.capstonelegal.role.controller.RoleController: Fetching paginated roles
+2023.11.14 15:12:43.287 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:12:43.528 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:12:44.178 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:12:44.433 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:12:44.437 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:12:44.505 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:22:34.233 [INFO] com.capstonelegal.Main: Starting Main using Java 17.0.1 on LAPTOP-OHAH734S with PID 17260 (C:\Users\ASUS\Desktop\Capstone\capstonelegal\target\classes started by ASUS in C:\Users\ASUS\Desktop\Capstone)
+2023.11.14 15:22:34.241 [INFO] com.capstonelegal.Main: No active profile set, falling back to 1 default profile: "default"
+2023.11.14 15:22:41.942 [ERROR] org.springframework.boot.SpringApplication: Application run failed
+java.lang.TypeNotPresentException: Type com.capstonelegal.task.model.entities.Task not present
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:117)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.visitor.Reifier.reifyTypeArguments(Reifier.java:68)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:138)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.repository.ClassRepository.computeSuperInterfaces(ClassRepository.java:117)
+	at java.base/sun.reflect.generics.repository.ClassRepository.getSuperInterfaces(ClassRepository.java:95)
+	at java.base/java.lang.Class.getGenericInterfaces(Class.java:1211)
+	at org.springframework.core.ResolvableType.getInterfaces(ResolvableType.java:502)
+	at org.springframework.core.GenericTypeResolver.buildTypeVariableMap(GenericTypeResolver.java:271)
+	at org.springframework.core.GenericTypeResolver.getTypeVariableMap(GenericTypeResolver.java:248)
+	at org.springframework.data.util.ClassTypeInformation.getTypeVariableMap(ClassTypeInformation.java:120)
+	at org.springframework.data.util.ClassTypeInformation.getTypeVariableMap(ClassTypeInformation.java:109)
+	at org.springframework.data.util.ClassTypeInformation.<init>(ClassTypeInformation.java:96)
+	at java.base/java.util.concurrent.ConcurrentMap.computeIfAbsent(ConcurrentMap.java:330)
+	at org.springframework.data.util.ClassTypeInformation.from(ClassTypeInformation.java:73)
+	at org.springframework.data.repository.core.support.AbstractRepositoryMetadata.<init>(AbstractRepositoryMetadata.java:63)
+	at org.springframework.data.repository.core.support.DefaultRepositoryMetadata.<init>(DefaultRepositoryMetadata.java:50)
+	at org.springframework.data.repository.core.support.AbstractRepositoryMetadata.getMetadata(AbstractRepositoryMetadata.java:78)
+	at org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport.getRepositoryConfigurations(RepositoryConfigurationExtensionSupport.java:103)
+	at org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:159)
+	at org.springframework.boot.autoconfigure.data.AbstractRepositoryConfigurationSourceSupport.registerBeanDefinitions(AbstractRepositoryConfigurationSourceSupport.java:62)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.lambda$loadBeanDefinitionsFromRegistrars$1(ConfigurationClassBeanDefinitionReader.java:396)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsFromRegistrars(ConfigurationClassBeanDefinitionReader.java:395)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:157)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:129)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:343)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.capstonelegal.Main.main(Main.java:27)
+Caused by: java.lang.ClassNotFoundException: com.capstonelegal.task.model.entities.Task
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	... 40 common frames omitted
+2023.11.14 15:23:07.830 [INFO] com.capstonelegal.Main: Starting Main using Java 17.0.1 on LAPTOP-OHAH734S with PID 4488 (C:\Users\ASUS\Desktop\Capstone\capstonelegal\target\classes started by ASUS in C:\Users\ASUS\Desktop\Capstone)
+2023.11.14 15:23:07.841 [INFO] com.capstonelegal.Main: No active profile set, falling back to 1 default profile: "default"
+2023.11.14 15:23:33.272 [INFO] com.capstonelegal.Main: Started Main in 26.616 seconds (JVM running for 28.181)
+2023.11.14 15:24:22.822 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:24:22.895 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:24:23.288 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:24:23.353 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:24:23.355 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:24:23.378 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:26:19.598 [ERROR] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Could not resolve view with name 'forward:/swagger-ui/index.html' in servlet with name 'dispatcherServlet'] with root cause
+javax.servlet.ServletException: Could not resolve view with name 'forward:/swagger-ui/index.html' in servlet with name 'dispatcherServlet'
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1380)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1145)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1084)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.11.14 15:26:33.593 [ERROR] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Could not resolve view with name 'forward:/swagger-ui/index.html' in servlet with name 'dispatcherServlet'] with root cause
+javax.servlet.ServletException: Could not resolve view with name 'forward:/swagger-ui/index.html' in servlet with name 'dispatcherServlet'
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1380)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1145)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1084)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.11.14 15:27:09.910 [INFO] com.capstonelegal.Main: Starting Main using Java 17.0.1 on LAPTOP-OHAH734S with PID 19440 (C:\Users\ASUS\Desktop\Capstone\capstonelegal\target\classes started by ASUS in C:\Users\ASUS\Desktop\Capstone)
+2023.11.14 15:27:09.916 [INFO] com.capstonelegal.Main: No active profile set, falling back to 1 default profile: "default"
+2023.11.14 15:27:21.467 [INFO] com.capstonelegal.Main: Started Main in 12.289 seconds (JVM running for 13.371)
+2023.11.14 15:27:51.935 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:27:51.951 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:27:52.114 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:27:52.188 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:27:52.189 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:27:52.209 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:32:21.182 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:32:21.297 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:32:21.433 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:32:21.575 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:32:21.576 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:32:21.623 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:34:04.950 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:34:04.958 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:34:04.991 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:34:05.006 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:34:05.015 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:34:05.034 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:34:35.299 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:34:35.305 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:34:35.326 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:37:06.647 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:37:06.670 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:37:06.726 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:38:03.976 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:38:03.981 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:38:04.002 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:39:29.331 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:39:29.339 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:39:29.366 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:39:59.763 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:39:59.775 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:39:59.810 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:40:05.968 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:40:05.978 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:40:06.001 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:40:17.934 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:40:17.939 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:40:17.963 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:40:30.922 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:40:30.929 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:40:30.952 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:40:42.330 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:40:42.334 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:40:42.355 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:41:00.162 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:41:00.166 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:41:00.256 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:41:25.203 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:41:25.211 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:41:25.234 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:41:33.306 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:41:33.310 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:41:33.332 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:42:23.692 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:42:23.697 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:42:23.718 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:42:23.727 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:42:23.728 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:42:23.742 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:43:41.138 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:43:41.149 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:43:41.171 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:43:41.178 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:43:41.179 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:43:41.192 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:43:58.134 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:43:58.138 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:43:58.161 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:43:58.170 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:43:58.170 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:43:58.186 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:44:06.079 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:44:06.083 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:44:06.101 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:44:06.108 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:44:06.109 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:44:06.124 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:47:59.866 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:47:59.882 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:47:59.914 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:47:59.921 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:47:59.922 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:47:59.935 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:53:50.826 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:53:50.881 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:53:50.976 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:53:51.022 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:53:51.024 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:53:51.042 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:55:21.826 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:55:21.832 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:55:21.852 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:55:21.868 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:55:21.868 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:55:21.896 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:55:26.851 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:55:26.856 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:55:26.881 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 15:55:26.891 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 15:55:26.891 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 15:55:26.915 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:15.149 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:15.185 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:15.275 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:15.317 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:15.318 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:15.331 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:16.646 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:16.652 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:16.670 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:16.675 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:16.676 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:16.696 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:19.250 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:19.256 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:19.279 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:19.287 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:19.287 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:19.309 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:21.024 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:21.030 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:21.048 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:21.055 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:21.055 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:21.067 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:23.232 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:23.236 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:23.255 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:23.261 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:23.262 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:23.274 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:24.937 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:24.943 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:24.964 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:24.971 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:24.972 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:24.991 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:26.706 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:26.711 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:26.729 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:51:26.734 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:51:26.734 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:51:26.749 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:53:30.305 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:53:30.339 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:53:30.430 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:53:30.458 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:53:30.459 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:53:30.477 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:55:05.857 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:55:05.863 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:55:05.893 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:55:05.906 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:55:05.907 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:55:05.933 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:57:59.044 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:57:59.050 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:57:59.077 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 16:57:59.089 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 16:57:59.089 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 16:57:59.109 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 17:14:27.550 [INFO] com.capstonelegal.Main: Starting Main using Java 17.0.1 on LAPTOP-OHAH734S with PID 23972 (C:\Users\ASUS\Desktop\Capstone\capstonelegal\target\classes started by ASUS in C:\Users\ASUS\Desktop\Capstone)
+2023.11.14 17:14:27.561 [INFO] com.capstonelegal.Main: No active profile set, falling back to 1 default profile: "default"
+2023.11.14 17:14:53.817 [INFO] com.capstonelegal.Main: Started Main in 27.51 seconds (JVM running for 30.05)
+2023.11.14 17:16:14.689 [INFO] com.capstonelegal.legalcase.controller.LegalCaseController: Fetching cases with filters - legalCaseTitle: null
+2023.11.14 17:16:14.717 [INFO] com.capstonelegal.legalcase.service.LegalCaseService: Fetching Cases with filters - case name: null
+2023.11.14 17:16:14.829 [INFO] com.capstonelegal.legalcase.controller.LegalCaseController: Returning legal cases
+2023.11.14 17:26:51.643 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 17:26:51.787 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 17:26:52.122 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 17:26:52.191 [INFO] com.capstonelegal.organization.controller.OrganizationController: Fetching organizations with filters - organizationName: null, countryName: null, stateName: null, districtName: null, cityName: null
+2023.11.14 17:26:52.193 [INFO] com.capstonelegal.organization.service.OrganizationService: Fetching Organizations with filters - organization name: null. country name: null, state name: null, district name: null, city name: null, page: 0, size: 20
+2023.11.14 17:26:52.210 [INFO] com.capstonelegal.organization.controller.OrganizationController: Returning 1 organization out of total 1
+2023.11.14 17:28:20.015 [INFO] com.capstonelegal.legalcase.controller.LegalCaseController: Fetching cases with filters - legalCaseTitle: null
+2023.11.14 17:28:20.024 [INFO] com.capstonelegal.legalcase.service.LegalCaseService: Fetching Cases with filters - case name: null
+2023.11.14 17:28:20.046 [INFO] com.capstonelegal.legalcase.controller.LegalCaseController: Returning legal cases
